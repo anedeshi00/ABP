@@ -73,99 +73,155 @@
 
         <div class="row gy-4">
 
-          <div class="col-xl-3 col-md-6 d-flex">
+        <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-activity"></i>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            <img src="assets/img/Logo/starlightml.png" width="100px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">Starlight Member</a></h4>
+              <p>Rp. 149.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-bounding-box-circles"></i>
-              <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+            <img src="assets/img/Logo/starlightml.png" width="100px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">Starlight Member Plus</a></h4>
+              <p>Rp. 329.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-calendar4-week"></i>
-              <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">15 Diamond</a></h4>
+              <p>Rp. 3.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">86(78+8) Diamond</a></h4>
+              <p>Rp. 20.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">172(156+16) Diamond</a></h4>
+              <p>Rp. 40.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">257(234+23) Diamond</a></h4>
+              <p>Rp. 60.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">344(312+32) Diamond</a></h4>
+              <p>Rp. 79.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">429(390+39) Diamond</a></h4>
+              <p>Rp. 105.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">514(468+46) Diamond</a></h4>
+              <p>Rp. 125.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">600(546+54) Diamond</a></h4>
+              <p>Rp. 137.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">1050(937+113) Diamond</a></h4>
+              <p>Rp. 250.000 </p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">1669(1484+185) Diamond</a></h4>
+              <p>Rp. 400.000 </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6">
+            <div class="service-item position-relative">
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">2539(2172+367) Diamond</a></h4>
+              <p>Rp. 575.000 </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6">
+            <div class="service-item position-relative">
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">4394(3724+670) Diamond</a></h4>
+              <p>Rp. 980.000 </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6">
+            <div class="service-item position-relative">
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">6238(5274+964) Diamond</a></h4>
+              <p>Rp. 1.400.000 </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6">
+            <div class="service-item position-relative">
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">9288(7740+1548) Diamond</a></h4>
+              <p>Rp. 2.050.000 </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6">
+            <div class="service-item position-relative">
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">12976(10839+2137) Diamond</a></h4>
+              <p>Rp. 2.860.000 </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6">
+            <div class="service-item position-relative">
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">18676(15480+3096) Diamond</a></h4>
+              <p>Rp. 4.110.000 </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6">
+            <div class="service-item position-relative">
+            <img src="assets/img/Logo/diamondml.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">27864(23220+4644) Diamond</a></h4>
+              <p>Rp. 6.190.000 </p>
             </div>
           </div><!-- End Service Item -->
         </div>
@@ -205,7 +261,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Order!</button></div>
+              <div class="text-center"><a href="/pembayaran" class="btn btn-success">Order!</a></div>
             </form>
           </div><!-- End Contact Form -->
 
@@ -244,6 +300,7 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/hehe.js"></script>
 
 </body>
 

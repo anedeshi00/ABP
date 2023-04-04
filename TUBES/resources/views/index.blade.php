@@ -27,6 +27,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
+
 </head>
 
 <body>
@@ -66,8 +67,8 @@
             <br> di KuyTopup
           </p>
           <div class="input-group mb-3">
-            <input type="text" class="form-control" placeholder="Mau topup apa hari ini?" aria-label="Recipient's username" aria-describedby="button-addon2">
-            <button class="btn-get-started" type="button" id="button-addon2">Cari Game</button>
+            <input type="text" id="inputan" onkeyup="search()" class="form-control" placeholder="Mau topup apa hari ini?" aria-label="Recipient's username" aria-describedby="button-addon2">
+            <button class="btn-get-started" disabled type="button" id="button-addon2">Cari Game</button>
           </div>         
         </div>
       </div>
@@ -81,78 +82,18 @@
       <div class="container-fluid">
 
         <div class="row gy-4 justify-content-center">
-          <div class="col-xl-3 col-lg-4 col-md-6">
+          @foreach($games as $game)
+          <div class="col-xl-3 col-lg-4 col-md-6" title="{{ $game['name'] }}">
             <div class="gallery-item h-100">
-              <img src="assets/img/gallery/apex.png" class="img-fluid" alt="">
+              <img src="assets/img/gallery/game_{{ $game['id'] }}.png" class="img-fluid" alt="">
               <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="assets/img/gallery/apex.png" title="Apex Legend" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="/apex" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                <a href="assets/img/gallery/game_{{ $game['id'] }}.png" title="{{ $game['name'] }}" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
+                <a href="/{{ $game['nickname'] }}" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div>
           </div><!-- End Gallery Item -->
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="assets/img/gallery/winde_belum.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="assets/img/gallery/winde_belum.png" title="Genshin Impact" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="/genshin" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div>
-          </div><!-- End Gallery Item -->
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="assets/img/gallery/honkai.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="assets/img/gallery/honkai.png" title="Honkai Impact" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="/honkai" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div>
-          </div><!-- End Gallery Item -->
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="assets/img/gallery/azurlane.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="assets/img/gallery/azurlane.png" title="Azur Lane" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="/azurlane" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div>
-          </div><!-- End Gallery Item -->
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="assets/img/gallery/bluea.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="assets/img/gallery/bluea.png" title="Blue Archive" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="/bluearchive" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div>
-          </div><!-- End Gallery Item -->
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="assets/img/gallery/ml.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="assets/img/gallery/ml.png" title="Mobile Legends" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="/mobilelegends" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div>
-          </div><!-- End Gallery Item -->
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="assets/img/gallery/palo.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="assets/img/gallery/palo.png" title="Valorant" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="/valorant" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div>
-          </div><!-- End Gallery Item -->
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="assets/img/gallery/wwaves.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="assets/img/gallery/wwaves.png" title="Wuthering Waves" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="/wutheringwaves" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div>
-          </div><!-- End Gallery Item -->
+          @endforeach
+          
           </div>
 
       </div>
@@ -191,7 +132,7 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
+  <script src="assets/js/hehe.js"></script>
 </body>
 
 </html>

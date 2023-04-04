@@ -955,10 +955,10 @@ h6 {
 .services .service-item {
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
-  background: var(--color-secondary);
   height: 100%;
   overflow: hidden;
   z-index: 1;
+  cursor: pointer;
 }
 
 .services .service-item:before {
@@ -1024,6 +1024,7 @@ h6 {
 --------------------------------------------------------------*/
 .pricing {
   margin-top: 80px;
+  margin-bottom: 100px;
 }
 
 .pricing .pricing-item {
@@ -1270,4 +1271,10 @@ h6 {
 
 .footer .credits a {
   color: var(--color-primary);
+}
+
+/* custom select */
+.service-item--selected {
+  background: #009578;
+  color: #ffffff;
 }

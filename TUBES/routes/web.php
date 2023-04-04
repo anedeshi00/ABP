@@ -16,12 +16,18 @@ use App\Http\Controllers\GameController;
 
 Route::get('/', [GameController::class, 'index']);
 
+Route::get('/search', [GameController::class, 'search']);
+
 Route::get('/contact', function () {
     return view('contact');
 });
 
 Route::get('/about', function () {
     return view('about');
+});
+
+Route::get('/pembayaran', function () {
+    return view('pembayaran');
 });
 
 Route::get('/apex', function () {
@@ -36,15 +42,15 @@ Route::get('/honkai', function () {
     return view('honkai');
 });
 
-Route::get('/azurlane', function () {
+Route::get('/azur-lane', function () {
     return view('azurlane');
 });
 
-Route::get('/bluearchive', function () {
+Route::get('/blue-archive', function () {
     return view('bluearchive');
 });
 
-Route::get('/mobilelegends', function () {
+Route::get('/mobile-legends', function () {
     return view('mobilelegends');
 });
 
@@ -52,6 +58,6 @@ Route::get('/valorant', function () {
     return view('valorant');
 });
 
-Route::get('/wutheringwaves', function () {
+Route::get('/wuthering-waves', function () {
     return view('wutheringwaves');
 });

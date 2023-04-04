@@ -70,102 +70,68 @@
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-xl-3 col-md-6 d-flex">
+        <div class="row gy-4" id='service-container'>
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-activity"></i>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <img src="assets/img/Logo/apexcoin.png" width="50px" class="bi bi-activity">
+              <h4><a value='1' class="stretched-link">90 Coins</a></h4>
+              <p>Rp 16.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-bounding-box-circles"></i>
-              <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <img src="assets/img/Logo/apexcoin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">280 Coins</a></h4>
+              <p>Rp 34.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-calendar4-week"></i>
-              <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <img src="assets/img/Logo/apexcoin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">500 (465 + 35) Coins</a></h4>
+              <p>Rp 64.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <img src="assets/img/Logo/apexcoin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">1050 (935 + 115) Coins</a></h4>
+              <p>Rp 125.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <img src="assets/img/Logo/apexcoin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">2150 (1870 + 280) Coins</a></h4>
+              <p>Rp 250.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <img src="assets/img/Logo/apexcoin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">5650 (4680 + 970) Coins</a></h4>
+              <p>Rp 610.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <img src="assets/img/Logo/apexcoin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">11500 (9365 + 2135) Coins</a></h4>
+              <p>Rp 1.200.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex">
-            <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex">
-            <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex">
-            <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex">
-            <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <img src="assets/img/Logo/apexcoin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">23500 (18730 + 4770) Coins</a></h4>
+              <p>Rp 2.400.000</p>
             </div>
           </div><!-- End Service Item -->
         </div>
@@ -205,7 +171,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Order!</button></div>
+              <div class="text-center"><a href="/pembayaran" class="btn btn-success">Order!</a></div>
             </form>
           </div><!-- End Contact Form -->
 
@@ -244,6 +210,7 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/hehe.js"></script>
 
 </body>
 

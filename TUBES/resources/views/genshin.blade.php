@@ -73,99 +73,59 @@
 
         <div class="row gy-4">
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-activity"></i>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            <img src="assets/img/Logo/genshin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">Blessing of The Welkin Moon</a></h4>
+              <p>Rp. 75.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-bounding-box-circles"></i>
-              <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+            <img src="assets/img/Logo/genshin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">60 Genesis Crystal</a></h4>
+              <p>Rp. 15.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-calendar4-week"></i>
-              <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+            <img src="assets/img/Logo/genshin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">330 + 30 Genesis Crystal</a></h4>
+              <p>Rp. 75.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/genshin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">980 + 110 Genesis Crystal</a></h4>
+              <p>Rp. 225.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/genshin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">1980 + 260 Genesis Crystal</a></h4>
+              <p>Rp. 450.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/genshin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">3280 + 600 Genesis Crystal</a></h4>
+              <p>Rp. 720.000</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-3 col-md-6 d-flex">
+          <div class="col-xl-3 col-md-6">
             <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex">
-            <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex">
-            <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex">
-            <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex">
-            <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex">
-            <div class="service-item position-relative">
-              <i class="bi bi-broadcast"></i>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <img src="assets/img/Logo/genshin.png" width="50px" class="bi bi-activity">
+              <h4><a href="#" class="stretched-link">6480 + 1600 Genesis Crystal</a></h4>
+              <p>Rp. 1.450.000</p>
             </div>
           </div><!-- End Service Item -->
         </div>
@@ -205,7 +165,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Order!</button></div>
+              <div class="text-center"><a href="/pembayaran" class="btn btn-success">Order!</a></div>
             </form>
           </div><!-- End Contact Form -->
 
@@ -244,6 +204,7 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/hehe.js"></script>
 
 </body>
 

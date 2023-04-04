@@ -99,7 +99,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
-                  Cape nge-carry sat
+                  Cape nge-carry men
                 </p>
                 <div class="profile mt-auto">
                   <img src="assets/img/testimonials/aria.png" class="testimonial-img" alt="">
@@ -112,7 +112,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
-                  Susah kontol dan segenap batin
+                  maulana.. maulanaa
                 </p>
                 <div class="profile mt-auto">
                   <img src="assets/img/testimonials/isan.png" class="testimonial-img" alt="">
@@ -125,10 +125,10 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  jawir lover
                 </p>
                 <div class="profile mt-auto">
-                  <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                  <img src="assets/img/testimonials/adin.jpg" class="testimonial-img" alt="">
                   <h3>Addin Amanatullah S</h3>
                   <h4>Developers</h4>
                 </div>
@@ -138,10 +138,10 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  osmanthus wine tastes the same as i remember. but where are those who share the memory..
                 </p>
                 <div class="profile mt-auto">
-                  <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                  <img src="assets/img/testimonials/keris.png" class="testimonial-img" alt="">
                   <h3>Christopher Arden A</h3>
                   <h4>Developers</h4>
                 </div>
